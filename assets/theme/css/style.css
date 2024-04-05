@@ -1002,12 +1002,12 @@ blockquote {
 
 /* Track */
 ::-webkit-scrollbar-track {
-  background: #5cc4c6;
+  background: #010608;
 }
 
 /* Handle */
 ::-webkit-scrollbar-thumb {
-  background: #f34a0a;
+  background: #f3480abe;
   border-radius: 25px;
 }
 
