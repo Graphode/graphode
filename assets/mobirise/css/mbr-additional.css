@@ -1332,13 +1332,18 @@ a {
     border-radius: 1.5rem;
     background: #000000;
     opacity: 1;
+    box-shadow: #000000 solid;
     border-color:#f3480a48!important;
     border-style: solid;
-    border-radius: 70px;
+    border-radius: 50px;
     border-width: 1px;
     background: rgba(8, 13, 16, 0.8) !important;
     backdrop-filter: blur(8px);
   }
+
+  .cid-tJS6tZXiPa .navbar-collapse.collapsing {
+    border-color: transparent !important; /* Set border color to transparent when collapsing */
+}
   .cid-tJS6tZXiPa .navbar-nav .nav-item .nav-link::after {
     margin-left: 10px;
   }
@@ -1406,7 +1411,7 @@ a {
   background-color: #030d11;
 }
 .cid-tJS6uM4N87 .mbr-fallback-image.disabled {
-  display: none;b
+  display: none;
 }
 .cid-tJS6uM4N87 .mbr-fallback-image {
   display: block;
