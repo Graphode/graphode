@@ -1332,7 +1332,10 @@ a {
     border-radius: 1.5rem;
     background: #000000;
     opacity: 1;
-    border-color: rgba(8, 13, 16, 0.8) !important;
+    border-color:#f3480a48!important;
+    border-style: solid;
+    border-radius: 70px;
+    border-width: 1px;
     background: rgba(8, 13, 16, 0.8) !important;
     backdrop-filter: blur(8px);
   }
@@ -1403,7 +1406,7 @@ a {
   background-color: #030d11;
 }
 .cid-tJS6uM4N87 .mbr-fallback-image.disabled {
-  display: none;
+  display: none;b
 }
 .cid-tJS6uM4N87 .mbr-fallback-image {
   display: block;
